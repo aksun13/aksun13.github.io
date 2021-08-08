@@ -1,0 +1,56 @@
+,Parameter Name,Parameter State,Parameter Value
+,Frame1,True,
+,optCPM,True,"False"
+,optPERT,True,"True"
+,Frame2,False,
+,Frame3,True,
+,chkRunSimulation,True,"False"
+,optCrashToSpecificTime,False,"True"
+,optCostTimeTradeOff,False,"False"
+,chkEnableCrashing,False,"False"
+,txtProjectCompletionTime,False,"1.0"
+,lblDesiredTime,False,
+,Label2,True,
+,txtFromRow,True,"5"
+,txtToRow,True,"13"
+,Label3,True,
+,Label4,True,
+,cmdCancel,True,"False"
+,cmdExit,True,"False"
+,cmdOK,True,"False"
+,cmdHelp,True,"False"
+,cbDrawNetwork,True,"False"
+,Label5,True,
+,DATA,Activity Code,"AB,AD,AE,BC,CG,DG,EF,FG,GH"
+,DATA,Normal Duration,",,,,,,,,"
+,DATA,Minimum Duration,",,,,,,,,"
+,DATA,Cost per Unit,",,,,,,,,"
+,DATA,Optimistic Time,"2,4,6,1,2,8,4,6,1"
+,DATA,Likely Time,"5,5,8,3,4,9,5,8,2"
+,DATA,Pessimistic Time,"8,7,12,7,5,11,7,10,3"
+,DATA,Pred. 1,",,,AB,BC,AD,AE,EF,CG"
+,DATA,Pred. 2,",,,,,,,,DG"
+,DATA,Pred. 3,",,,,,,,,FG"
+,DATA,Pred. 4,",,,,,,,,"
+,DATA,Pred. 5,",,,,,,,,"
+,DATA,Pred. 6,",,,,,,,,"
+,DATA,Pred. 7,",,,,,,,,"
+,DATA,Pred. 8,",,,,,,,,"
+,DATA,Pred. 9,",,,,,,,,"
+,DATA,Pred. 10,",,,,,,,,"
+,DATA,Description of Activity,",,,,,,,,"
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
